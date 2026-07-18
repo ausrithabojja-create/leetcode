@@ -29,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ausrithabojja-create/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ausrithabojja-create/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
