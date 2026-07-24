@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ausrithabojja-create/leetcode/tree/master/0202-happy-number) |
+| [1768-merge-strings-alternately](https://github.com/ausrithabojja-create/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ausrithabojja-create/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ausrithabojja-create/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Array
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ausrithabojja-create/leetcode/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/ausrithabojja-create/leetcode/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
