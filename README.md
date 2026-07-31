@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ausrithabojja-create/leetcode/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/ausrithabojja-create/leetcode/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/ausrithabojja-create/leetcode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/ausrithabojja-create/leetcode/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/ausrithabojja-create/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0268-missing-number](https://github.com/ausrithabojja-create/leetcode/tree/master/0268-missing-number) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ausrithabojja-create/leetcode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/ausrithabojja-create/leetcode/tree/master/0137-single-number-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/ausrithabojja-create/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0268-missing-number](https://github.com/ausrithabojja-create/leetcode/tree/master/0268-missing-number) |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ausrithabojja-create/leetcode/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ausrithabojja-create/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
