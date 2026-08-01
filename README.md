@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ausrithabojja-create/leetcode/tree/master/0011-container-with-most-water) |
+| [0051-n-queens](https://github.com/ausrithabojja-create/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ausrithabojja-create/leetcode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/ausrithabojja-create/leetcode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/ausrithabojja-create/leetcode/tree/master/0137-single-number-ii) |
@@ -102,5 +103,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/ausrithabojja-create/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/ausrithabojja-create/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
