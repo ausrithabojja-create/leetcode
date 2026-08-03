@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/ausrithabojja-create/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/ausrithabojja-create/leetcode/tree/master/0268-missing-number) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/ausrithabojja-create/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2370-longest-ideal-subsequence](https://github.com/ausrithabojja-create/leetcode/tree/master/2370-longest-ideal-subsequence) |
 ## Two Pointers
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ausrithabojja-create/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ausrithabojja-create/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ausrithabojja-create/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/ausrithabojja-create/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/ausrithabojja-create/leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 ## Database
 |  |
