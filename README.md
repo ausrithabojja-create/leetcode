@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ausrithabojja-create/leetcode/tree/master/0258-add-digits) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/ausrithabojja-create/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ausrithabojja-create/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ausrithabojja-create/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Number Theory
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/ausrithabojja-create/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0268-missing-number](https://github.com/ausrithabojja-create/leetcode/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ausrithabojja-create/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/ausrithabojja-create/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ausrithabojja-create/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ausrithabojja-create/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/ausrithabojja-create/leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/ausrithabojja-create/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/ausrithabojja-create/leetcode/tree/master/1768-merge-strings-alternately) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/ausrithabojja-create/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2370-longest-ideal-subsequence](https://github.com/ausrithabojja-create/leetcode/tree/master/2370-longest-ideal-subsequence) |
 ## Divide and Conquer
 |  |
