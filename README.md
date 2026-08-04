@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/ausrithabojja-create/leetcode/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/ausrithabojja-create/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0268-missing-number](https://github.com/ausrithabojja-create/leetcode/tree/master/0268-missing-number) |
+| [0643-maximum-average-subarray-i](https://github.com/ausrithabojja-create/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ausrithabojja-create/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ausrithabojja-create/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ausrithabojja-create/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -113,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/ausrithabojja-create/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/ausrithabojja-create/leetcode/tree/master/0078-subsets) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/ausrithabojja-create/leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
