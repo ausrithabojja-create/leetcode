@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/ausrithabojja-create/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/ausrithabojja-create/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/ausrithabojja-create/leetcode/tree/master/0268-missing-number) |
+| [0507-perfect-number](https://github.com/ausrithabojja-create/leetcode/tree/master/0507-perfect-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ausrithabojja-create/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/ausrithabojja-create/leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ausrithabojja-create/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
