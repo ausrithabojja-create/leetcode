@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ausrithabojja-create/leetcode/tree/master/0011-container-with-most-water) |
+| [0088-merge-sorted-array](https://github.com/ausrithabojja-create/leetcode/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/ausrithabojja-create/leetcode/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ausrithabojja-create/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/ausrithabojja-create/leetcode/tree/master/1768-merge-strings-alternately) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/ausrithabojja-create/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ausrithabojja-create/leetcode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/ausrithabojja-create/leetcode/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/ausrithabojja-create/leetcode/tree/master/0088-merge-sorted-array) |
 | [0137-single-number-ii](https://github.com/ausrithabojja-create/leetcode/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/ausrithabojja-create/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ausrithabojja-create/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ausrithabojja-create/leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/ausrithabojja-create/leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
