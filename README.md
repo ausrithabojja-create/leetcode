@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/ausrithabojja-create/leetcode/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/ausrithabojja-create/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/ausrithabojja-create/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/ausrithabojja-create/leetcode/tree/master/0258-add-digits) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/ausrithabojja-create/leetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/ausrithabojja-create/leetcode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/ausrithabojja-create/leetcode/tree/master/0137-single-number-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/ausrithabojja-create/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
