@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ausrithabojja-create/leetcode/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/ausrithabojja-create/leetcode/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/ausrithabojja-create/leetcode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/ausrithabojja-create/leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ausrithabojja-create/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/ausrithabojja-create/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ausrithabojja-create/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/ausrithabojja-create/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ausrithabojja-create/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/ausrithabojja-create/leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/ausrithabojja-create/leetcode/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/ausrithabojja-create/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ausrithabojja-create/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ausrithabojja-create/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
