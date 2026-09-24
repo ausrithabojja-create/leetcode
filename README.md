@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ausrithabojja-create/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ausrithabojja-create/leetcode/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/ausrithabojja-create/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0739-daily-temperatures](https://github.com/ausrithabojja-create/leetcode/tree/master/0739-daily-temperatures) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ausrithabojja-create/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ausrithabojja-create/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ausrithabojja-create/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -157,4 +158,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/ausrithabojja-create/leetcode/tree/master/0112-path-sum) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/ausrithabojja-create/leetcode/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/ausrithabojja-create/leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
