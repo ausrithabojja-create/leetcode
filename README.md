@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ausrithabojja-create/leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/ausrithabojja-create/leetcode/tree/master/0014-longest-common-prefix) |
 | [0051-n-queens](https://github.com/ausrithabojja-create/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ausrithabojja-create/leetcode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/ausrithabojja-create/leetcode/tree/master/0078-subsets) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ausrithabojja-create/leetcode/tree/master/0014-longest-common-prefix) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ausrithabojja-create/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1446-consecutive-characters](https://github.com/ausrithabojja-create/leetcode/tree/master/1446-consecutive-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ausrithabojja-create/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -166,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/ausrithabojja-create/leetcode/tree/master/0739-daily-temperatures) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ausrithabojja-create/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
